@@ -1,0 +1,1 @@
+XSS|s:14:"7159Cb060Dc434";is_logged|b:1;DB|a:6:{s:4:"user";s:4:"root";s:3:"pwd";s:0:"";s:2:"db";s:4:"test";s:4:"host";s:9:"localhost";s:4:"port";s:4:"3308";s:5:"chset";s:4:"utf8";}sql_chset|a:1:{i:0;a:1:{s:7:"Charset";s:4:"utf8";}}

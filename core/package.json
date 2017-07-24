@@ -1,0 +1,25 @@
+{
+  "window": {
+	"icon": "app.png",
+    "toolbar": false,
+	"show": false,
+    "toolbar": false,
+    "frame": true,
+    "position": "center",
+	"width": 1000,
+    "height": 500
+	},
+  "apache_port": 8181,
+  "mysql_port": 3318,
+  "single-instance" : false,
+  "name": "PHPBrowserBox",
+  "version": "5.0.0",
+  "author": "Anthony Ogundipe",
+  "license": "MIT",
+  "email": "diltony@yahoo.com",
+  "phone": "+234(0)7030290746",
+  "url": "http://phpbrowserbox.com/",
+  "main": "../webkit/application.html",
+  "dependencies": {
+  }
+}

@@ -1,0 +1,1 @@
+XSS|s:14:"1e6E4b9b17be0d";is_logged|b:1;DB|a:6:{s:4:"user";s:4:"root";s:3:"pwd";s:0:"";s:2:"db";s:4:"test";s:4:"host";s:9:"localhost";s:4:"port";s:4:"3318";s:5:"chset";s:4:"utf8";}sql_sd|a:4:{i:0;a:1:{s:8:"Database";s:18:"information_schema";}i:1;a:1:{s:8:"Database";s:5:"mysql";}i:2;a:1:{s:8:"Database";s:18:"performance_schema";}i:3;a:1:{s:8:"Database";s:4:"test";}}

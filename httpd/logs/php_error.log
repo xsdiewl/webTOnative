@@ -1,0 +1,78 @@
+[16-Mar-2017 15:09:58 UTC] PHP Warning:  file_get_contents(E:/wamp/www/phpbrowserbox.com/factory/app/httpd/package.json): failed to open stream: No such file or directory in E:\wamp\www\phpbrowserbox.com\factory\app\httpd\htdocs\theme\header.php on line 9
+[16-Mar-2017 15:10:50 UTC] PHP Warning:  file_get_contents(E:/wamp/www/phpbrowserbox.com/factory/app/httpd/package.json): failed to open stream: No such file or directory in E:\wamp\www\phpbrowserbox.com\factory\app\httpd\htdocs\theme\header.php on line 9
+[16-Mar-2017 15:13:25 UTC] PHP Warning:  file_get_contents(E:/wamp/www/phpbrowserbox.com/factory/app/httpd/package.json): failed to open stream: No such file or directory in E:\wamp\www\phpbrowserbox.com\factory\app\httpd\htdocs\theme\header.php on line 9
+[16-Mar-2017 15:17:41 UTC] PHP Warning:  file_get_contents(E:/wamp/www/phpbrowserbox.com/factory/app/httpd/package.json): failed to open stream: No such file or directory in E:\wamp\www\phpbrowserbox.com\factory\app\httpd\htdocs\theme\header.php on line 9
+[16-Mar-2017 15:17:48 UTC] PHP Warning:  file_get_contents(E:/wamp/www/phpbrowserbox.com/factory/app/httpd/package.json): failed to open stream: No such file or directory in E:\wamp\www\phpbrowserbox.com\factory\app\httpd\htdocs\theme\header.php on line 9
+[16-Mar-2017 15:17:48 UTC] PHP Notice:  Trying to get property of non-object in E:\wamp\www\phpbrowserbox.com\factory\app\httpd\htdocs\testmysql.php on line 8
+[16-Mar-2017 15:17:48 UTC] PHP Warning:  mysqli::__construct() expects parameter 5 to be integer, string given in E:\wamp\www\phpbrowserbox.com\factory\app\httpd\htdocs\testmysql.php on line 10
+[16-Mar-2017 15:18:02 UTC] PHP Warning:  file_get_contents(E:/wamp/www/phpbrowserbox.com/factory/app/httpd/package.json): failed to open stream: No such file or directory in E:\wamp\www\phpbrowserbox.com\factory\app\httpd\htdocs\theme\header.php on line 9
+[16-Mar-2017 18:11:13 UTC] PHP Warning:  file_get_contents(E:/wamp/www/phpbrowserbox.com/app/package.json): failed to open stream: No such file or directory in E:\wamp\www\phpbrowserbox.com\app\httpd\htdocs\theme\header.php on line 9
+[16-Mar-2017 18:11:43 UTC] PHP Warning:  file_get_contents(E:/wamp/www/phpbrowserbox.com/app/package.json): failed to open stream: No such file or directory in E:\wamp\www\phpbrowserbox.com\app\httpd\htdocs\theme\header.php on line 9
+[16-Mar-2017 21:08:25 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in E:\wamp\www\phpbrowserbox.com\app212\httpd\htdocs\phpminiadmin\index.php on line 521
+[16-Mar-2017 21:08:26 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in E:\wamp\www\phpbrowserbox.com\app212\httpd\htdocs\phpminiadmin\index.php on line 521
+[16-Mar-2017 21:08:27 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in E:\wamp\www\phpbrowserbox.com\app212\httpd\htdocs\phpminiadmin\index.php on line 521
+[16-Mar-2017 21:08:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in E:\wamp\www\phpbrowserbox.com\app212\httpd\htdocs\phpminiadmin\index.php on line 566
+[16-Mar-2017 21:08:28 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in E:\wamp\www\phpbrowserbox.com\app212\httpd\htdocs\phpminiadmin\index.php on line 521
+[16-Mar-2017 21:08:28 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in E:\wamp\www\phpbrowserbox.com\app212\httpd\htdocs\phpminiadmin\index.php on line 521
+[16-Mar-2017 21:08:28 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in E:\wamp\www\phpbrowserbox.com\app212\httpd\htdocs\phpminiadmin\index.php on line 566
+[16-Mar-2017 21:08:30 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in E:\wamp\www\phpbrowserbox.com\app212\httpd\htdocs\phpminiadmin\index.php on line 521
+[16-Mar-2017 21:08:30 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in E:\wamp\www\phpbrowserbox.com\app212\httpd\htdocs\phpminiadmin\index.php on line 521
+[16-Mar-2017 21:08:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in E:\wamp\www\phpbrowserbox.com\app212\httpd\htdocs\phpminiadmin\index.php on line 566
+[16-Mar-2017 21:08:32 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in E:\wamp\www\phpbrowserbox.com\app212\httpd\htdocs\phpminiadmin\index.php on line 521
+[16-Mar-2017 21:08:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in E:\wamp\www\phpbrowserbox.com\app212\httpd\htdocs\phpminiadmin\index.php on line 566
+[16-Mar-2017 21:08:37 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in E:\wamp\www\phpbrowserbox.com\app212\httpd\htdocs\phpminiadmin\index.php on line 521
+[16-Mar-2017 21:08:39 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in E:\wamp\www\phpbrowserbox.com\app212\httpd\htdocs\phpminiadmin\index.php on line 521
+[16-Mar-2017 21:08:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in E:\wamp\www\phpbrowserbox.com\app212\httpd\htdocs\phpminiadmin\index.php on line 566
+[16-Mar-2017 21:08:41 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in E:\wamp\www\phpbrowserbox.com\app212\httpd\htdocs\phpminiadmin\index.php on line 521
+[16-Mar-2017 21:08:43 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in E:\wamp\www\phpbrowserbox.com\app212\httpd\htdocs\phpminiadmin\index.php on line 521
+[16-Mar-2017 21:08:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in E:\wamp\www\phpbrowserbox.com\app212\httpd\htdocs\phpminiadmin\index.php on line 566
+[16-Mar-2017 21:08:43 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in E:\wamp\www\phpbrowserbox.com\app212\httpd\htdocs\phpminiadmin\index.php on line 521
+[16-Mar-2017 21:08:44 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in E:\wamp\www\phpbrowserbox.com\app212\httpd\htdocs\phpminiadmin\index.php on line 521
+[16-Mar-2017 21:08:45 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in E:\wamp\www\phpbrowserbox.com\app212\httpd\htdocs\phpminiadmin\index.php on line 521
+[16-Mar-2017 21:08:45 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in E:\wamp\www\phpbrowserbox.com\app212\httpd\htdocs\phpminiadmin\index.php on line 566
+[16-Mar-2017 21:08:46 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in E:\wamp\www\phpbrowserbox.com\app212\httpd\htdocs\phpminiadmin\index.php on line 521
+[16-Mar-2017 21:08:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in E:\wamp\www\phpbrowserbox.com\app212\httpd\htdocs\phpminiadmin\index.php on line 566
+[16-Mar-2017 21:10:59 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in E:\wamp\www\phpbrowserbox.com\app212\httpd\htdocs\phpminiadmin\index.php on line 521
+[16-Mar-2017 21:11:01 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in E:\wamp\www\phpbrowserbox.com\app212\httpd\htdocs\phpminiadmin\index.php on line 521
+[16-Mar-2017 21:11:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in E:\wamp\www\phpbrowserbox.com\app212\httpd\htdocs\phpminiadmin\index.php on line 566
+[16-Mar-2017 21:23:48 UTC] PHP Warning:  mysqli::__construct(): (HY000/1049): Unknown database 'test2' in E:\wamp\www\phpbrowserbox.com\app212\httpd\htdocs\testmysql.php on line 10
+[16-Mar-2017 21:24:11 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in E:\wamp\www\phpbrowserbox.com\app212\httpd\htdocs\phpminiadmin\index.php on line 521
+[16-Mar-2017 21:24:13 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in E:\wamp\www\phpbrowserbox.com\app212\httpd\htdocs\phpminiadmin\index.php on line 521
+[16-Mar-2017 21:24:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in E:\wamp\www\phpbrowserbox.com\app212\httpd\htdocs\phpminiadmin\index.php on line 566
+[17-Mar-2017 13:05:06 UTC] PHP Notice:  Undefined variable: base_path in E:\wamp\www\phpbrowserbox.com\app\httpd\htdocs\variables.php on line 16
+[17-Mar-2017 13:05:06 UTC] PHP Notice:  Undefined variable: base_path in E:\wamp\www\phpbrowserbox.com\app\httpd\htdocs\variables.php on line 20
+[17-Mar-2017 13:05:06 UTC] PHP Notice:  Undefined variable: base_path in E:\wamp\www\phpbrowserbox.com\app\httpd\htdocs\variables.php on line 24
+[17-Mar-2017 13:05:06 UTC] PHP Notice:  Undefined variable: base_path in E:\wamp\www\phpbrowserbox.com\app\httpd\htdocs\variables.php on line 37
+[17-Mar-2017 13:05:09 UTC] PHP Notice:  Undefined variable: base_path in E:\wamp\www\phpbrowserbox.com\app\httpd\htdocs\variables.php on line 16
+[17-Mar-2017 13:05:09 UTC] PHP Notice:  Undefined variable: base_path in E:\wamp\www\phpbrowserbox.com\app\httpd\htdocs\variables.php on line 20
+[17-Mar-2017 13:05:09 UTC] PHP Notice:  Undefined variable: base_path in E:\wamp\www\phpbrowserbox.com\app\httpd\htdocs\variables.php on line 24
+[17-Mar-2017 13:05:09 UTC] PHP Notice:  Undefined variable: base_path in E:\wamp\www\phpbrowserbox.com\app\httpd\htdocs\variables.php on line 37
+[17-Mar-2017 13:05:11 UTC] PHP Notice:  Undefined variable: base_path in E:\wamp\www\phpbrowserbox.com\app\httpd\htdocs\variables.php on line 16
+[17-Mar-2017 13:05:11 UTC] PHP Notice:  Undefined variable: base_path in E:\wamp\www\phpbrowserbox.com\app\httpd\htdocs\variables.php on line 20
+[17-Mar-2017 13:05:11 UTC] PHP Notice:  Undefined variable: base_path in E:\wamp\www\phpbrowserbox.com\app\httpd\htdocs\variables.php on line 24
+[17-Mar-2017 13:05:11 UTC] PHP Notice:  Undefined variable: base_path in E:\wamp\www\phpbrowserbox.com\app\httpd\htdocs\variables.php on line 37
+[17-Mar-2017 13:09:27 UTC] PHP Notice:  Undefined variable: base_path in E:\wamp\www\phpbrowserbox.com\app\httpd\htdocs\variables.php on line 16
+[17-Mar-2017 13:09:27 UTC] PHP Notice:  Undefined variable: base_path in E:\wamp\www\phpbrowserbox.com\app\httpd\htdocs\variables.php on line 20
+[17-Mar-2017 13:09:27 UTC] PHP Notice:  Undefined variable: base_path in E:\wamp\www\phpbrowserbox.com\app\httpd\htdocs\variables.php on line 24
+[17-Mar-2017 13:09:27 UTC] PHP Notice:  Undefined variable: base_path in E:\wamp\www\phpbrowserbox.com\app\httpd\htdocs\variables.php on line 37
+[17-Mar-2017 13:11:03 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in E:\wamp\www\phpbrowserbox.com\app\httpd\htdocs\theme\header.php on line 6
