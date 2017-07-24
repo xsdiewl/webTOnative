@@ -1,3 +1,5 @@
+Check instructions  **[here](https://github.com/albsector/webTOnative/wiki/Wiki)**
+
 Developer: Ogundipe Anthony
 	   Adalen   Vladi
 
