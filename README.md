@@ -23,3 +23,4 @@ Developers Info:
 - You can do almost all your configurations from core/package.js at the root folder of the installation
 - You can configure mysql, apache and php by checking the config folder at the root of the installation
 
+Forked *
